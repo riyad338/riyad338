@@ -1,5 +1,5 @@
-### Hi there 👋, I am Riyad
-#### App Developer
+### Hi 👋, I am Riyad
+### App Developer
 
 
 
