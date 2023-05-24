@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Riyad Hossain</h1>
 <h3 align="center">App Developer</h3>
-<img align="right"alt="coding"width="400"src="![image](https://github.com/riyad338/riyad338/assets/126685334/0d65872c-629e-4a03-b4db-3e3fa988613e)">
+<img align="right"alt="coding"width="400"src="https://github.com/riyad338/riyad338/assets/126685334/0d65872c-629e-4a03-b4db-3e3fa988613e">
 - 🌱 I’m currently learning **Flutter**
 
 - 💬 Ask me about **App Development**
